@@ -178,5 +178,7 @@ public class Main {
 
         System.out.println("Результаты для 5000 элементов: Stack");
         System.out.println("Среднее время выполнения: " + averageTimeStack5000 + " мс");
+
+        System.out.println("Hello");
     }
 }
